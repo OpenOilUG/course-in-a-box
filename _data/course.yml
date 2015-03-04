@@ -1,7 +1,10 @@
-title: Course in a Box
+title: Petroleum Modeling
 description: Build Your Very Own Open Course
 modules: [start, community, learning, content, feedback, references]
 signups:
+ - name: Johnny West
+   image: http://s.huffpost.com/contributors/johnny-west/headshot.jpg
+   twitter: Open_Oil
  - name: Geert Hofman
    image: https://media.licdn.com/media/p/3/000/1b0/2c9/2daad0c.jpg
    twitter: GeertHa
@@ -137,3 +140,6 @@ signups:
  - name: Brandon Patterson
    image: https://pbs.twimg.com/profile_images/79129479/n29003170_31235140_867.jpg
    twitter: thebrandonshow
+ - name: Alvar Maciel
+   image: https://pbs.twimg.com/profile_images/378800000119378128/9487f620fd1e8a5a459f34cb39ab946a_400x400.jpeg
+   twitter: amaciel
